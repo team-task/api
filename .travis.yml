@@ -7,3 +7,4 @@ deploy:
   user: "hsalmeida@gmail.com"
   password: "h1lt0N01" # can be encrypted
   domain: "s3Labs"
+  application: "teamtask"
