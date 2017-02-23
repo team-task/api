@@ -4,7 +4,7 @@ node_js:
   - "6"
 deploy:
   provider: openshift
-  user: "hsalmeida@gmail.com"
-  password: "h1lt0N01" # can be encrypted
-  domain: "s3Labs"
-  application: "teamtask"
+  user: hsalmeida@gmail.com
+  password: h1lt0N01
+  domain: s3Labs
+  app: teamtask
